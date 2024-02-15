@@ -5,7 +5,7 @@ import os
 # 벨로그 RSS 피드 URL
 rss_url = 'https://api.velog.io/rss/@tngus0325'
 
-# 깃허브 레포지토리 경로를 현재 디렉토리로 설정
+# 깃허브 레포지토리 경로
 repo_path = '.'
 
 # 'velog-posts' 폴더 경로
